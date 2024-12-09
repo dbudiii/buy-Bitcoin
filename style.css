@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    color: blue;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#header { 
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#subheader {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    padding: 20px
+}
