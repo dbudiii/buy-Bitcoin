@@ -9,11 +9,19 @@ div {
     display: flex;
     justify-content: center;
     padding: 20px;
+    font-weight: 700;
 }
 
 #subheader {
     display: flex;
     justify-content: center;
-    background-color: gray;
+    padding: 20px
+}
+
+#price {
+    display: flex;
+    font-size: 64px;
+    font-weight: 700;
+    justify-content: center;
     padding: 20px
 }
